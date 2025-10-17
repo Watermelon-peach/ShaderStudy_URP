@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/Materials/157_hdrmaps_com_free_10K.mat
+Assets/Materials/157_hdrmaps_com_free_10K.mat.meta
+Assets/Scenes/03Pistol/Sci-fi Pistol/Materials/157_hdrmaps_com_free_10K.mat
+Assets/Scenes/03Pistol/Sci-fi Pistol/Materials/157_hdrmaps_com_free_10K.mat.meta
+Assets/Textures/157_hdrmaps_com_free_10K.exr
+Assets/Textures/157_hdrmaps_com_free_10K.exr.meta
